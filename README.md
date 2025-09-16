@@ -1,4 +1,4 @@
-# My Homepage
+# My Course Homepage
 
 ## Course Information
 - Course: CS203A - **Data Structures**
